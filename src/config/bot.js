@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: "Ocupado tryhardando no YvsS", // required by Discord API, not shown in the client
         state: "Ocupado tryhardando no YvsS",     // this is what people actually see
         type: 0,               // Custom
       },
